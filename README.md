@@ -1,150 +1,275 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-# WellnessSkyline-Global-Mission
-Global Mission of Wellness Skyline – Holistic health for body, mind, society, and spiritual wellness
-# 🌐 WellnessSkyline – Global Mission
-
 ![Visitors](https://komarev.com/ghpvc/?username=DrNADharmadhikari)
 
----
+# 🌿 Wellness Skyline – Global Wellness Education Platform
 
-## 🌟 About WellnessSkyline
-
-**WellnessSkyline** is a global initiative founded by **Dr. Neelesh Aniruddha Dharmadhikari** with the mission to provide **holistic health** across body, mind, society, and spiritual wellness, **transcending regions, boundaries, and gender**.  
-
-We aim to combine **scientific knowledge, traditional practices, and digital empowerment** to make wellness accessible for everyone.
+**Global Wellness Skyline** is the dedicated wellness education platform of the **Global Wellness Skyline (GWS) Ecosystem**, created to make holistic wellness understandable, accessible, and meaningful for people across cultures, professions, and generations.
 
 ---
 
-### 🔗 Founder
+## 🌍 About Wellness Skyline
 
-- 👨‍⚕️ **Dr. Neelesh Aniruddha Dharmadhikari** – General Practitioner | BAMS, DNYS, DPharm | Nagpur, India  
-- 🏥 Founder of [Dr. N. A. Dharmadhikari Clinic](https://drnadharmadhikariclinic.com)  
-- 🌐 Founder of [WellnessSkyline](https://wellnessskyline.com)  
+Founded by **Dr. Neelesh Aniruddha Dharmadhikari**, Wellness Skyline promotes wellness as a lifelong, conscious, and inclusive journey.
 
----
+Its educational mission integrates:
 
-## 🔖 Featured Hashtags
+- 🌿 Wellness
+- ❤️ Wellbeing
+- 🩺 Health
+- 💪 Fitness
+- 🧠 Mental Wellness
+- 🤝 Social Wellness
+- 🕊 Spiritual Wellness
+- 📚 Lifelong Learning
+- 🤖 Artificial Intelligence
+- 👨‍⚕️ Human Wisdom
+- ♿ Accessibility
+- 🌍 Responsible Digital Knowledge
 
-`#UltimateHolisticHealth`  
-`#NobleThoughtsForever`  
-`#WellnessSkyline`  
-`#GlobalWellnessSkyline`  
-`#PearlsOfWisdomGalaxy`  
-`#OpenResearchContributor`  
-`#DrNADharmadhikari`  
-`#DrNADharmadhikariClinic`  
-`#Dharmadhikari`  
-`#DrDharmadhikari`  
-`#WorldRecordsWriting`
+**Official Website**
 
----
-
-> “**Global Mission of Wellness Skyline is to provide holistic health of body, mind, society, and spiritual wellness transcending region, boundaries, and gender.**”
+🌐 https://wellnessskyline.com
 
 ---
 
-## 🌍 Let's Connect
+# 🌟 Seven Educational Series
 
-- 📱 **+91 9822735722**  
-- 📧 **neeleshdharmadhikari@gmail.com**  
-- 🌐 [WellnessSkyline](https://wellnessskyline.com)  
-- 🌐 [Dr. N. A. Dharmadhikari Clinic](https://drnadharmadhikariclinic.com)  
-- 🔗 [Facebook](https://www.facebook.com/Dr.Dharmadhikari)  
-- 🔗 [Instagram](https://www.instagram.com/dr.dharmadhikari/)  
-- 🔗 [Threads](https://www.threads.net/@dr.dharmadhikari)  
-- 🔗 [Pinterest](https://www.pinterest.com/drnadharmadhikari/)  
-- 🔗 [Telegram](https://t.me/DrNADharmadhikari)  
-- 🔗 [YouTube](https://www.youtube.com/@NeeleshDharmadhikari)  
-- 🔗 [Twitter/X](https://x.com/DrNeeleshD)  
-- 🔗 ORCID: [0009-0002-2935-1042](https://orcid.org/0009-0002-2935-1042) – Verified Open Research Contributor
+Wellness Skyline currently publishes seven interconnected educational series:
 
----
+- 📘 Empowering Health Megablog — The Guiding Source
+- 💎 Noble Thoughts Forever
+- 🌌 Pearls of Wisdom Galaxy
+- 🌞 Wellness Daily Thoughts
+- 🎬 Wisdom Shorts Insights
+- 📖 Wellness Wisdom Weekly Edition
+- 🔬 Scientific Wellness Insights
 
-## 🏆 Achievements
-
-- 🌐 Promoting **holistic health and wellness education globally**  
-- ✍️ Megablogger on holistic health – over 138,786+ words  
-- 🧘‍♂️ World Record Holder in **Meditation (21 Dec)** & **Yoga (21 June)**  
-- 📣 Awareness campaigns on **Tuberculosis**, **Leprosy**, **Lifestyle Disorders**, and more
+Together, these series simplify complex scientific, psychological, philosophical, and wellness concepts into practical knowledge for everyday life.
 
 ---
 
-## 🌐 Multilingual Greetings
+# 🌐 Relationship with the GWS Ecosystem
+
+Wellness Skyline functions as one of the principal educational platforms within the **Global Wellness Skyline (GWS) Ecosystem**, alongside:
+
+- 🏥 Dr N A Dharmadhikari Clinic
+- 🌍 Global Wellness Skyline (GWS) Ecosystem
+
+The ecosystem promotes the collaboration of:
+
+- Responsible Digital Knowledge
+- Artificial Intelligence
+- Human Wisdom
+- Scientific Thinking
+- Accessibility
+- Lifelong Learning
+
+---
+
+# 👨‍⚕️ Founder
+
+**Dr. Neelesh Aniruddha Dharmadhikari**
+
+General Physician & Surgeon
+
+Founder
+
+- 🌍 Global Wellness Skyline (GWS) Ecosystem
+- 🌿 Wellness Skyline
+- 🏥 Dr N A Dharmadhikari Clinic
+
+---
+
+# 🏆 Major Contributions
+
+- 🌿 Global Wellness Education
+- 📚 Seven Original Educational Series
+- 📖 Empowering Health Megablog (138,786+ words)
+- 💡 Responsible Digital Knowledge
+- ♿ Accessible Wellness Education
+- 🌍 Global Educational Communication
+- 🧘 World Record Holder in Meditation & Yoga
+- 🔬 Evidence-Based Wellness Communication
+
+---
+
+# 🔖 Featured Hashtags
+
+`#GlobalWellnessSkyline`
+
+`#WellnessSkyline`
+
+`#GWSEcosystem`
+
+`#ResponsibleDigitalKnowledge`
+
+`#ScientificWellnessInsights`
+
+`#EmpoweringHealth`
+
+`#NobleThoughtsForever`
+
+`#PearlsOfWisdomGalaxy`
+
+`#WellnessDailyThoughts`
+
+`#WellnessWisdomWeeklyEdition`
+
+`#WisdomShortsInsights`
+
+`#UltimateHolisticHealth`
+
+`#ArtificialIntelligence`
+
+`#HumanWisdom`
+
+`#LifelongLearning`
+
+---
+
+> **"Wellness is timeless, ageless, genderless, endless — a conscious process beyond circumstances."**
+
+— **Dr. Neelesh Aniruddha Dharmadhikari**
+
+---
+
+# 🌍 Official Links
+
+🌐 Global Wellness Skyline (GWS) Ecosystem
+
+https://gwsecosystem.com
+
+🌐 Wellness Skyline
+
+https://wellnessskyline.com
+
+🌐 Dr N A Dharmadhikari Clinic
+
+https://drnadharmadhikariclinic.com
+
+🆔 ORCID
+
+https://orcid.org/0009-0002-2935-1042
+
+💻 GitHub
+
+https://github.com/DrNADharmadhikari
+
+📌 Pinterest
+
+https://pinterest.com/neeleshdharmadhikari
+
+📺 YouTube
+
+https://www.youtube.com/@NeeleshDharmadhikari
+
+📨 Telegram
+
+https://t.me/DrNADharmadhikari
+
+💼 LinkedIn
+
+https://linkedin.com/in/drneeleshdharmadhikari
+
+---
+
+# 🌐 Multilingual Welcome
 
 <details>
 <summary>🇬🇧 English</summary>
 
-**Welcome to the WellnessSkyline Global Mission!**  
-We are committed to spreading holistic health for body, mind, society, and spiritual wellness across the world.  
+**Welcome to Wellness Skyline.**
+
+Together we explore wellness, wellbeing, lifelong learning, and responsible digital knowledge for humanity.
+
 </details>
 
 <details>
-<summary>🇨🇳 中文 (Simplified Chinese)</summary>
+<summary>🇨🇳 中文</summary>
 
-**欢迎来到 WellnessSkyline 全球使命！**  
-我们致力于在全球推广身体、心灵、社会和精神的整体健康。
+欢迎来到 Wellness Skyline。
+
+共同探索健康、幸福、终身学习和负责任的数字知识。
+
 </details>
 
 <details>
-<summary>🇯🇵 日本語 (Japanese)</summary>
+<summary>🇯🇵 日本語</summary>
 
-**WellnessSkyline グローバルミッションへようこそ！**  
-私たちは、身体、心、社会、精神の全体的な健康を世界中に広めることを目指しています。
+Wellness Skylineへようこそ。
+
+健康・幸福・生涯学習・責任あるデジタル知識を共に探究します。
+
 </details>
 
 <details>
-<summary>🇰🇷 한국어 (Korean)</summary>
+<summary>🇰🇷 한국어</summary>
 
-**WellnessSkyline 글로벌 미션에 오신 것을 환영합니다!**  
-우리는 전 세계에 신체, 마음, 사회, 정신의 전체적인 건강을 확산하는 데 전념하고 있습니다.
+Wellness Skyline에 오신 것을 환영합니다.
+
+웰니스, 웰빙, 평생학습, 책임 있는 디지털 지식을 함께 탐구합니다.
+
 </details>
 
 <details>
-<summary>🇸🇦 العربية (Arabic)</summary>
+<summary>🇸🇦 العربية</summary>
 
-**مرحبًا بكم في مهمة WellnessSkyline العالمية!**  
-نحن ملتزمون بنشر الصحة الشاملة للجسم والعقل والمجتمع والروح في جميع أنحاء العالم.
+مرحبًا بكم في Wellness Skyline.
+
+معًا نستكشف العافية والرفاهية والتعلم مدى الحياة والمعرفة الرقمية المسؤولة.
+
 </details>
 
 <details>
-<summary>🇪🇸 Español (Spanish)</summary>
+<summary>🇪🇸 Español</summary>
 
-**¡Bienvenido a la Misión Global de WellnessSkyline!**  
-Estamos comprometidos a difundir la salud integral del cuerpo, la mente, la sociedad y el bienestar espiritual en todo el mundo.
+Bienvenido a Wellness Skyline.
+
+Juntos exploramos bienestar, aprendizaje permanente y conocimiento digital responsable.
+
 </details>
 
 <details>
-<summary>🇫🇷 Français (French)</summary>
+<summary>🇫🇷 Français</summary>
 
-**Bienvenue à la Mission Globale de WellnessSkyline !**  
-Nous nous engageons à promouvoir la santé holistique du corps, de l'esprit, de la société et du bien-être spirituel à travers le monde.
+Bienvenue sur Wellness Skyline.
+
+Ensemble, explorons le bien-être, l'apprentissage tout au long de la vie et la connaissance numérique responsable.
+
 </details>
 
 <details>
-<summary>🇮🇳 हिंदी (Hindi)</summary>
+<summary>🇮🇳 हिन्दी</summary>
 
-**WellnessSkyline वैश्विक मिशन में आपका स्वागत है!**  
-हम पूरे विश्व में शरीर, मन, समाज और आध्यात्मिक स्वास्थ्य का समग्र प्रसार करने के लिए प्रतिबद्ध हैं।
+Wellness Skyline में आपका स्वागत है।
+
+आइए मिलकर वेलनेस, वेलबीइंग, आजीवन सीखने और उत्तरदायी डिजिटल ज्ञान की यात्रा करें।
+
 </details>
 
 <details>
-<summary>🇮🇳 संस्कृतम् (Sanskrit)</summary>
+<summary>🇮🇳 संस्कृतम्</summary>
 
-**WellnessSkyline वैश्विकम् मिशनं मध्ये स्वागतम्!**  
-वयं सर्वत्र शरीरे, चित्ते, समाजे च आध्यात्मिकस्वास्थ्यस्य समग्रं प्रचारं कर्तुं समर्पिताः स्मः।
+Wellness Skyline मध्ये भवतः स्वागतम्।
+
+आरोग्यं, कल्याणम्, आजीवन-अध्ययनम् तथा उत्तरदायी डिजिटल-ज्ञानस्य संयुक्तं अन्वेषणं कुर्मः।
+
 </details>
 
 <details>
-<summary>🇮🇳 मराठी (Marathi)</summary>
+<summary>🇮🇳 मराठी</summary>
 
-**WellnessSkyline ग्लोबल मिशनमध्ये आपले स्वागत आहे!**  
-आम्ही जगभरात शरीर, मन, समाज आणि आध्यात्मिक आरोग्याचा समग्र प्रसार करण्यास कटिबद्ध आहोत.
+Wellness Skyline मध्ये आपले स्वागत आहे.
+
+चला, वेलनेस, वेलबीइंग, आजीवन शिक्षण आणि उत्तरदायी डिजिटल ज्ञानाचा प्रवास एकत्र करूया.
+
 </details>
 
 <details>
-<summary>🇷🇺 Русский (Russian)</summary>
+<summary>🇷🇺 Русский</summary>
 
-**Добро пожаловать в глобальную миссию WellnessSkyline!**  
-Мы стремимся распространять целостное здоровье тела, разума, общества и духовное благополучие по всему миру.
+Добро пожаловать в Wellness Skyline.
+
+Вместе исследуем благополучие, обучение на протяжении всей жизни и ответственное цифровое знание.
+
 </details>
